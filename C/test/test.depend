@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648058564 source:c:\users\bui tuan anh\onedrive - actvn.edu.vn\code\git\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
